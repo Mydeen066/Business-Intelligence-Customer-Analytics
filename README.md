@@ -31,7 +31,10 @@ MySQL · Python (pandas) · Power BI (DAX, data modelling)
   the largest drop-off is between add-to-cart and purchase
 
 ## Screenshots
-(add the three page images here)
+<img width="1015" height="578" alt="image" src="https://github.com/user-attachments/assets/da5d239b-5025-4d41-8245-eb16a13c211a" />
+<img width="1007" height="571" alt="image" src="https://github.com/user-attachments/assets/40c10a68-4f92-4379-bc91-534c79bcf6e1" />
+<img width="1015" height="573" alt="image" src="https://github.com/user-attachments/assets/f2c35b4d-1e97-4f0e-9925-f9919db71ca4" />
+
 
 ## Files
 - `analysis.sql`: validation and analysis queries

@@ -1,0 +1,501 @@
+product_id,product_name,category,brand,unit_price,unit_cost,rating
+2001,Decor Product 001,Home & Kitchen,Vertex,858.0,611.52,4.3
+2002,Laptop Product 002,Electronics,Aura,525.0,395.67,4.4
+2003,Skincare Product 003,Beauty,Apex,1605.0,903.92,4.1
+2004,Smartwatch Product 004,Electronics,PrimeOne,461.0,235.09,3.8
+2005,Education Product 005,Books,Vertex,596.0,450.64,3.9
+2006,Running Product 006,Sports,Nova,412.0,189.2,4.2
+2007,Sneakers Product 007,Fashion,Zenix,558.0,418.7,3.6
+2008,Laptop Product 008,Electronics,Vertex,4396.0,2587.55,4.6
+2009,Mixer Product 009,Home & Kitchen,Vertex,586.0,393.13,4.8
+2010,Technology Product 010,Books,Zenix,718.0,406.46,3.4
+2011,Decor Product 011,Home & Kitchen,Nova,2273.0,1256.81,4.4
+2012,Storage Product 012,Home & Kitchen,Vertex,2824.0,1377.14,4.5
+2013,Jeans Product 013,Fashion,Apex,703.0,454.94,4.5
+2014,Cookware Product 014,Home & Kitchen,Apex,3433.0,2356.42,3.4
+2015,Education Product 015,Books,Aura,458.0,225.52,4.0
+2016,T-Shirt Product 016,Fashion,Vertex,2048.0,1454.05,3.8
+2017,Laptop Product 017,Electronics,Apex,1040.0,545.29,4.0
+2018,Decor Product 018,Home & Kitchen,Apex,1641.0,930.52,3.5
+2019,Skincare Product 019,Beauty,Nova,1916.0,936.86,4.9
+2020,Fiction Product 020,Books,Nova,1048.0,744.25,4.3
+2021,Makeup Product 021,Beauty,Apex,1784.0,899.63,3.6
+2022,Fitness Product 022,Sports,PrimeOne,2256.0,1198.64,3.9
+2023,Decor Product 023,Home & Kitchen,Vertex,259.0,125.06,4.7
+2024,Headphones Product 024,Electronics,UrbanX,507.0,384.7,4.1
+2025,Headphones Product 025,Electronics,Aura,2540.0,1702.26,4.7
+2026,Smartphone Product 026,Electronics,Apex,198.0,133.6,4.4
+2027,Backpack Product 027,Fashion,Zenix,403.0,309.23,3.5
+2028,Yoga Product 028,Sports,Apex,4485.0,2655.56,3.7
+2029,Bedsheet Product 029,Home & Kitchen,Vertex,801.0,496.97,3.6
+2030,Jeans Product 030,Fashion,Nova,1340.0,682.48,4.3
+2031,Jeans Product 031,Fashion,PrimeOne,1619.0,994.99,5.0
+2032,Business Product 032,Books,PrimeOne,1687.0,1141.8,4.2
+2033,Backpack Product 033,Fashion,Nova,709.0,364.23,4.1
+2034,Haircare Product 034,Beauty,Apex,818.0,379.56,4.3
+2035,Fiction Product 035,Books,PrimeOne,7790.0,4165.0,4.1
+2036,Skincare Product 036,Beauty,Vertex,342.0,163.22,3.9
+2037,Decor Product 037,Home & Kitchen,Apex,603.0,431.57,4.2
+2038,Storage Product 038,Home & Kitchen,Vertex,395.0,292.37,4.4
+2039,Haircare Product 039,Beauty,Apex,941.0,508.99,3.9
+2040,Decor Product 040,Home & Kitchen,Nova,489.0,259.19,3.7
+2041,Fragrance Product 041,Beauty,UrbanX,3522.0,2354.64,4.5
+2042,Bedsheet Product 042,Home & Kitchen,Apex,4689.0,3325.37,3.1
+2043,Self-Help Product 043,Books,Aura,1086.0,737.91,3.5
+2044,Running Product 044,Sports,Apex,448.0,291.11,4.1
+2045,Laptop Product 045,Electronics,UrbanX,5792.0,3272.06,4.5
+2046,Football Product 046,Sports,Zenix,566.0,379.06,4.2
+2047,Smartphone Product 047,Electronics,Apex,1367.0,911.6,3.8
+2048,T-Shirt Product 048,Fashion,PrimeOne,1560.0,811.4,4.5
+2049,Smartwatch Product 049,Electronics,Vertex,463.0,212.44,3.7
+2050,Jacket Product 050,Fashion,Zenix,766.0,509.61,4.4
+2051,Jacket Product 051,Fashion,Zenix,5929.0,3300.81,3.9
+2052,Self-Help Product 052,Books,Zenix,1431.0,656.87,3.6
+2053,Mixer Product 053,Home & Kitchen,Nova,1742.0,794.46,4.4
+2054,T-Shirt Product 054,Fashion,Zenix,2329.0,1157.73,4.8
+2055,Decor Product 055,Home & Kitchen,PrimeOne,1645.0,786.69,3.9
+2056,Bedsheet Product 056,Home & Kitchen,PrimeOne,2775.0,1897.3,4.5
+2057,Business Product 057,Books,Zenix,1825.0,1381.75,3.2
+2058,Tablet Product 058,Electronics,UrbanX,994.0,492.08,3.5
+2059,Fragrance Product 059,Beauty,Apex,19263.0,12999.36,3.7
+2060,Smartwatch Product 060,Electronics,Aura,661.0,411.96,4.0
+2061,Sneakers Product 061,Fashion,PrimeOne,796.0,542.25,4.3
+2062,Sneakers Product 062,Fashion,PrimeOne,3927.0,2002.5,3.5
+2063,Fiction Product 063,Books,Nova,2298.0,1130.41,3.7
+2064,Tablet Product 064,Electronics,Zenix,783.0,566.54,4.5
+2065,Cookware Product 065,Home & Kitchen,UrbanX,732.0,523.43,3.7
+2066,Backpack Product 066,Fashion,Zenix,1135.0,859.07,4.7
+2067,Smartwatch Product 067,Electronics,PrimeOne,1510.0,786.14,3.8
+2068,Laptop Product 068,Electronics,Zenix,1143.0,715.19,4.6
+2069,Backpack Product 069,Fashion,PrimeOne,716.0,412.05,4.5
+2070,Cricket Product 070,Sports,PrimeOne,2104.0,1541.92,4.1
+2071,Technology Product 071,Books,Vertex,1213.0,757.1,4.2
+2072,Bedsheet Product 072,Home & Kitchen,Zenix,2535.0,1281.57,4.1
+2073,Business Product 073,Books,Zenix,1314.0,720.64,4.6
+2074,Tablet Product 074,Electronics,Aura,295.0,190.91,3.1
+2075,Tablet Product 075,Electronics,Zenix,1793.0,1133.69,3.9
+2076,Sneakers Product 076,Fashion,Nova,2786.0,1947.59,4.2
+2077,Sneakers Product 077,Fashion,Nova,1656.0,1291.19,4.6
+2078,T-Shirt Product 078,Fashion,Apex,279.0,164.58,3.8
+2079,Business Product 079,Books,Apex,1510.0,921.99,3.1
+2080,Decor Product 080,Home & Kitchen,PrimeOne,765.0,484.59,3.0
+2081,Jeans Product 081,Fashion,Aura,1234.0,838.56,4.1
+2082,Laptop Product 082,Electronics,UrbanX,1829.0,979.28,3.5
+2083,Smartwatch Product 083,Electronics,Zenix,942.0,607.71,4.0
+2084,Headphones Product 084,Electronics,UrbanX,2073.0,1101.89,3.5
+2085,Sneakers Product 085,Fashion,Aura,1810.0,1070.29,3.9
+2086,Laptop Product 086,Electronics,Vertex,1616.0,997.68,5.0
+2087,Tablet Product 087,Electronics,UrbanX,851.0,511.97,4.7
+2088,Laptop Product 088,Electronics,Aura,2886.0,1834.96,4.1
+2089,Education Product 089,Books,Zenix,4429.0,2454.82,4.0
+2090,Decor Product 090,Home & Kitchen,Apex,1167.0,905.71,3.7
+2091,Sneakers Product 091,Fashion,Vertex,768.0,505.3,4.3
+2092,Jacket Product 092,Fashion,Vertex,825.0,419.35,3.9
+2093,Fiction Product 093,Books,PrimeOne,2429.0,1714.05,4.7
+2094,Jeans Product 094,Fashion,PrimeOne,1304.0,748.65,4.1
+2095,Jacket Product 095,Fashion,Aura,963.0,531.96,4.2
+2096,Laptop Product 096,Electronics,Vertex,614.0,438.63,3.3
+2097,Yoga Product 097,Sports,PrimeOne,1699.0,1060.43,3.8
+2098,T-Shirt Product 098,Fashion,Aura,2075.0,968.14,4.9
+2099,Grooming Product 099,Beauty,PrimeOne,1118.0,741.39,3.4
+2100,Smartwatch Product 100,Electronics,Aura,1529.0,769.66,4.0
+2101,Sneakers Product 101,Fashion,Zenix,1869.0,1257.32,4.0
+2102,Smartphone Product 102,Electronics,UrbanX,2737.0,1731.02,4.2
+2103,Haircare Product 103,Beauty,Vertex,542.0,300.88,4.3
+2104,Makeup Product 104,Beauty,Zenix,628.0,466.89,3.8
+2105,Makeup Product 105,Beauty,Apex,831.0,438.69,4.5
+2106,Headphones Product 106,Electronics,PrimeOne,1225.0,664.04,3.8
+2107,Decor Product 107,Home & Kitchen,Apex,786.0,423.59,4.3
+2108,Smartwatch Product 108,Electronics,Vertex,926.0,576.35,3.4
+2109,Smartphone Product 109,Electronics,Nova,2280.0,1299.93,3.7
+2110,Self-Help Product 110,Books,Nova,324.0,182.71,3.4
+2111,Storage Product 111,Home & Kitchen,PrimeOne,585.0,405.36,4.2
+2112,Fragrance Product 112,Beauty,Vertex,645.0,500.58,4.2
+2113,Headphones Product 113,Electronics,Vertex,3670.0,2222.36,3.9
+2114,Smartphone Product 114,Electronics,Vertex,1278.0,848.53,4.2
+2115,Technology Product 115,Books,UrbanX,1460.0,1011.57,3.5
+2116,Smartwatch Product 116,Electronics,Apex,561.0,380.19,4.6
+2117,Storage Product 117,Home & Kitchen,PrimeOne,765.0,541.17,4.5
+2118,Fitness Product 118,Sports,PrimeOne,150.0,102.88,3.7
+2119,Cricket Product 119,Sports,Nova,1249.0,959.71,3.5
+2120,Sneakers Product 120,Fashion,UrbanX,647.0,485.13,3.9
+2121,Headphones Product 121,Electronics,PrimeOne,276.0,179.67,4.2
+2122,Backpack Product 122,Fashion,PrimeOne,1552.0,896.66,4.1
+2123,Storage Product 123,Home & Kitchen,Vertex,510.0,395.25,3.6
+2124,Bedsheet Product 124,Home & Kitchen,Nova,1288.0,735.36,3.9
+2125,Grooming Product 125,Beauty,Vertex,1524.0,837.32,4.2
+2126,T-Shirt Product 126,Fashion,UrbanX,14320.0,6632.66,3.9
+2127,Bedsheet Product 127,Home & Kitchen,Vertex,829.0,637.69,4.1
+2128,Jeans Product 128,Fashion,Zenix,1399.0,1027.63,4.5
+2129,Business Product 129,Books,UrbanX,1128.0,596.05,3.8
+2130,Smartphone Product 130,Electronics,Zenix,592.0,342.27,4.5
+2131,T-Shirt Product 131,Fashion,Aura,1414.0,741.58,4.1
+2132,Fragrance Product 132,Beauty,UrbanX,2355.0,1827.61,4.0
+2133,Technology Product 133,Books,Zenix,1922.0,881.87,3.5
+2134,Sneakers Product 134,Fashion,PrimeOne,2194.0,1002.97,4.4
+2135,Backpack Product 135,Fashion,Aura,576.0,392.9,5.0
+2136,Haircare Product 136,Beauty,Zenix,1259.0,648.89,3.6
+2137,Cricket Product 137,Sports,Nova,281.0,126.63,3.7
+2138,Mixer Product 138,Home & Kitchen,Apex,249.0,162.27,4.8
+2139,Fitness Product 139,Sports,Nova,5435.0,3282.36,4.4
+2140,Business Product 140,Books,Aura,1304.0,746.51,3.8
+2141,Sneakers Product 141,Fashion,Vertex,2077.0,943.05,4.9
+2142,Jeans Product 142,Fashion,Aura,2084.0,995.15,3.9
+2143,Headphones Product 143,Electronics,PrimeOne,1147.0,836.2,4.1
+2144,Laptop Product 144,Electronics,Apex,3912.0,2974.34,4.3
+2145,Mixer Product 145,Home & Kitchen,UrbanX,1040.0,583.2,4.4
+2146,Laptop Product 146,Electronics,Apex,169.0,122.31,4.3
+2147,Haircare Product 147,Beauty,Nova,1380.0,1017.47,5.0
+2148,Storage Product 148,Home & Kitchen,UrbanX,2738.0,1958.04,4.7
+2149,Football Product 149,Sports,Nova,331.0,249.98,4.8
+2150,Haircare Product 150,Beauty,UrbanX,914.0,711.64,3.8
+2151,Jeans Product 151,Fashion,Zenix,3200.0,1737.98,4.2
+2152,Headphones Product 152,Electronics,Aura,2620.0,1184.65,4.9
+2153,Sneakers Product 153,Fashion,PrimeOne,1047.0,611.26,3.9
+2154,Backpack Product 154,Fashion,Zenix,589.0,403.07,3.9
+2155,Football Product 155,Sports,PrimeOne,1170.0,658.43,4.5
+2156,Sneakers Product 156,Fashion,PrimeOne,1464.0,908.83,4.3
+2157,Tablet Product 157,Electronics,UrbanX,2293.0,1290.98,4.1
+2158,Storage Product 158,Home & Kitchen,Aura,1033.0,602.75,4.2
+2159,T-Shirt Product 159,Fashion,Apex,4763.0,2887.31,3.3
+2160,T-Shirt Product 160,Fashion,Aura,1449.0,1068.21,3.9
+2161,Backpack Product 161,Fashion,Vertex,856.0,615.2,3.7
+2162,Bedsheet Product 162,Home & Kitchen,Aura,714.0,545.51,4.8
+2163,T-Shirt Product 163,Fashion,Nova,544.0,289.64,4.0
+2164,Fiction Product 164,Books,PrimeOne,2948.0,1777.27,4.1
+2165,Sneakers Product 165,Fashion,Aura,981.0,662.52,4.6
+2166,Jeans Product 166,Fashion,Apex,150.0,92.77,4.8
+2167,Backpack Product 167,Fashion,UrbanX,827.0,483.98,4.2
+2168,Business Product 168,Books,Zenix,3552.0,1783.85,3.7
+2169,Tablet Product 169,Electronics,Zenix,775.0,494.5,3.9
+2170,Smartphone Product 170,Electronics,UrbanX,349.0,265.62,4.2
+2171,Technology Product 171,Books,PrimeOne,764.0,533.78,4.2
+2172,Smartphone Product 172,Electronics,Zenix,1992.0,1212.47,3.7
+2173,Cookware Product 173,Home & Kitchen,Zenix,940.0,606.94,3.2
+2174,T-Shirt Product 174,Fashion,Zenix,504.0,251.09,3.4
+2175,Laptop Product 175,Electronics,Zenix,1976.0,1338.11,3.6
+2176,Fitness Product 176,Sports,Apex,3295.0,2157.76,4.0
+2177,Cookware Product 177,Home & Kitchen,Zenix,4351.0,2378.86,4.0
+2178,Cookware Product 178,Home & Kitchen,UrbanX,1402.0,1082.42,3.4
+2179,Headphones Product 179,Electronics,Apex,996.0,526.65,4.0
+2180,Cookware Product 180,Home & Kitchen,Apex,1726.0,986.26,4.8
+2181,Laptop Product 181,Electronics,Apex,3619.0,2210.0,4.3
+2182,Education Product 182,Books,PrimeOne,2976.0,2257.68,5.0
+2183,Backpack Product 183,Fashion,Vertex,1095.0,620.48,4.1
+2184,Fiction Product 184,Books,Aura,497.0,317.88,4.1
+2185,Jeans Product 185,Fashion,UrbanX,1459.0,803.79,4.2
+2186,Decor Product 186,Home & Kitchen,Vertex,1159.0,560.41,4.9
+2187,Tablet Product 187,Electronics,UrbanX,1765.0,1012.31,4.8
+2188,Tablet Product 188,Electronics,Apex,439.0,316.29,4.4
+2189,Makeup Product 189,Beauty,Apex,649.0,374.91,4.3
+2190,Headphones Product 190,Electronics,UrbanX,2589.0,1667.01,3.7
+2191,Self-Help Product 191,Books,Zenix,1389.0,955.78,3.5
+2192,Fiction Product 192,Books,Apex,407.0,254.06,3.9
+2193,Laptop Product 193,Electronics,Zenix,3813.0,2088.42,4.8
+2194,Running Product 194,Sports,Vertex,901.0,700.04,4.9
+2195,Cricket Product 195,Sports,Nova,1654.0,890.42,3.4
+2196,Smartphone Product 196,Electronics,Vertex,758.0,384.62,4.7
+2197,Fitness Product 197,Sports,Aura,1502.0,1060.61,4.9
+2198,Fitness Product 198,Sports,UrbanX,3819.0,1721.17,4.7
+2199,Jacket Product 199,Fashion,Zenix,3838.0,2334.43,3.9
+2200,Makeup Product 200,Beauty,Zenix,4728.0,2706.42,4.5
+2201,Jacket Product 201,Fashion,Apex,765.0,409.59,3.4
+2202,Bedsheet Product 202,Home & Kitchen,PrimeOne,2103.0,1261.99,3.5
+2203,Decor Product 203,Home & Kitchen,Vertex,261.0,161.1,5.0
+2204,Laptop Product 204,Electronics,UrbanX,1577.0,929.79,3.9
+2205,Fiction Product 205,Books,PrimeOne,6221.0,4669.59,3.6
+2206,Fiction Product 206,Books,Zenix,396.0,306.53,3.9
+2207,Self-Help Product 207,Books,Aura,556.0,263.41,4.9
+2208,Mixer Product 208,Home & Kitchen,Zenix,1035.0,763.88,4.6
+2209,T-Shirt Product 209,Fashion,Vertex,947.0,598.23,3.8
+2210,Skincare Product 210,Beauty,Zenix,2478.0,1489.07,4.1
+2211,Haircare Product 211,Beauty,PrimeOne,2333.0,1628.79,4.3
+2212,Cricket Product 212,Sports,Apex,189.0,130.6,4.4
+2213,Fitness Product 213,Sports,Apex,462.0,331.47,4.3
+2214,Sneakers Product 214,Fashion,Aura,1030.0,499.07,3.7
+2215,Bedsheet Product 215,Home & Kitchen,Zenix,707.0,330.42,4.0
+2216,T-Shirt Product 216,Fashion,PrimeOne,1643.0,1113.79,3.6
+2217,Technology Product 217,Books,Aura,1714.0,1139.31,4.5
+2218,T-Shirt Product 218,Fashion,Vertex,157.0,114.29,4.1
+2219,Headphones Product 219,Electronics,Zenix,897.0,649.85,4.3
+2220,Storage Product 220,Home & Kitchen,UrbanX,552.0,335.62,3.8
+2221,Tablet Product 221,Electronics,Vertex,1323.0,751.88,4.4
+2222,Laptop Product 222,Electronics,Zenix,2175.0,1320.7,4.4
+2223,Technology Product 223,Books,Aura,987.0,520.07,3.5
+2224,Haircare Product 224,Beauty,Apex,377.0,191.02,4.5
+2225,Headphones Product 225,Electronics,Vertex,3922.0,2809.24,3.6
+2226,Jacket Product 226,Fashion,UrbanX,590.0,304.43,3.8
+2227,Backpack Product 227,Fashion,Aura,746.0,386.01,4.5
+2228,Cricket Product 228,Sports,Aura,216.0,105.31,3.8
+2229,Grooming Product 229,Beauty,PrimeOne,1936.0,1045.12,4.2
+2230,Smartwatch Product 230,Electronics,UrbanX,1217.0,559.58,4.1
+2231,Tablet Product 231,Electronics,Zenix,1867.0,914.51,3.5
+2232,Football Product 232,Sports,UrbanX,580.0,359.92,4.7
+2233,Business Product 233,Books,Vertex,2153.0,1583.07,4.8
+2234,Business Product 234,Books,PrimeOne,4290.0,3298.13,4.3
+2235,Tablet Product 235,Electronics,Nova,153.0,84.0,4.0
+2236,T-Shirt Product 236,Fashion,PrimeOne,1790.0,1039.49,4.2
+2237,Smartphone Product 237,Electronics,Apex,321.0,167.91,4.7
+2238,Education Product 238,Books,Nova,1801.0,1102.47,3.9
+2239,Backpack Product 239,Fashion,UrbanX,3146.0,2087.36,3.9
+2240,Self-Help Product 240,Books,Apex,473.0,343.92,4.0
+2241,Sneakers Product 241,Fashion,Apex,579.0,313.48,3.1
+2242,Smartwatch Product 242,Electronics,PrimeOne,1356.0,994.95,4.4
+2243,T-Shirt Product 243,Fashion,Nova,1183.0,784.15,4.2
+2244,Fiction Product 244,Books,UrbanX,350.0,260.53,4.5
+2245,Yoga Product 245,Sports,Nova,720.0,380.85,3.9
+2246,Storage Product 246,Home & Kitchen,Aura,599.0,334.63,3.5
+2247,Backpack Product 247,Fashion,UrbanX,977.0,445.67,4.2
+2248,Tablet Product 248,Electronics,Nova,5820.0,3539.06,3.6
+2249,Headphones Product 249,Electronics,Apex,1382.0,793.7,4.4
+2250,Tablet Product 250,Electronics,Vertex,456.0,347.84,4.4
+2251,Bedsheet Product 251,Home & Kitchen,Aura,1533.0,1086.01,5.0
+2252,Fragrance Product 252,Beauty,Apex,952.0,722.38,4.7
+2253,Backpack Product 253,Fashion,PrimeOne,4379.0,3086.33,4.2
+2254,Technology Product 254,Books,Aura,803.0,450.01,4.0
+2255,Cookware Product 255,Home & Kitchen,Zenix,913.0,585.59,4.5
+2256,Decor Product 256,Home & Kitchen,Apex,3265.0,2205.38,4.3
+2257,Decor Product 257,Home & Kitchen,PrimeOne,560.0,389.2,3.9
+2258,Football Product 258,Sports,Aura,411.0,279.46,3.2
+2259,Technology Product 259,Books,PrimeOne,1532.0,763.09,5.0
+2260,Running Product 260,Sports,Nova,1398.0,808.16,4.6
+2261,Storage Product 261,Home & Kitchen,Zenix,363.0,167.59,4.4
+2262,Fiction Product 262,Books,Vertex,200.0,110.08,4.1
+2263,Sneakers Product 263,Fashion,Aura,1602.0,1128.33,5.0
+2264,Headphones Product 264,Electronics,Aura,1593.0,909.49,4.5
+2265,Laptop Product 265,Electronics,UrbanX,1953.0,909.66,3.5
+2266,Fiction Product 266,Books,Aura,2972.0,2308.14,4.0
+2267,Fiction Product 267,Books,UrbanX,1313.0,671.64,4.5
+2268,Technology Product 268,Books,Apex,1044.0,581.85,4.7
+2269,Haircare Product 269,Beauty,Zenix,2289.0,1085.38,4.0
+2270,Makeup Product 270,Beauty,PrimeOne,1315.0,972.32,4.8
+2271,Fitness Product 271,Sports,Apex,312.0,173.76,3.5
+2272,Sneakers Product 272,Fashion,Nova,1481.0,789.0,4.0
+2273,Mixer Product 273,Home & Kitchen,Aura,2157.0,1545.12,4.0
+2274,Technology Product 274,Books,Vertex,529.0,336.37,4.5
+2275,Headphones Product 275,Electronics,Zenix,5601.0,4239.24,4.7
+2276,Bedsheet Product 276,Home & Kitchen,Apex,902.0,631.52,4.7
+2277,Sneakers Product 277,Fashion,UrbanX,3154.0,1655.35,3.5
+2278,Storage Product 278,Home & Kitchen,Nova,496.0,264.13,4.2
+2279,Education Product 279,Books,Nova,2524.0,1543.85,3.4
+2280,Fitness Product 280,Sports,UrbanX,4136.0,2614.55,4.1
+2281,Storage Product 281,Home & Kitchen,Zenix,584.0,353.89,4.9
+2282,Haircare Product 282,Beauty,Nova,1559.0,977.49,5.0
+2283,Cookware Product 283,Home & Kitchen,UrbanX,969.0,753.66,4.3
+2284,Tablet Product 284,Electronics,Zenix,477.0,280.23,4.2
+2285,Backpack Product 285,Fashion,Vertex,1328.0,772.07,4.0
+2286,Headphones Product 286,Electronics,UrbanX,897.0,635.33,4.1
+2287,T-Shirt Product 287,Fashion,Nova,947.0,700.48,4.8
+2288,Backpack Product 288,Fashion,Apex,419.0,229.74,3.7
+2289,Grooming Product 289,Beauty,Nova,2593.0,1918.98,4.0
+2290,Sneakers Product 290,Fashion,Zenix,823.0,600.62,4.1
+2291,Sneakers Product 291,Fashion,Apex,919.0,499.82,3.8
+2292,Jacket Product 292,Fashion,Aura,468.0,248.11,4.3
+2293,Smartwatch Product 293,Electronics,UrbanX,3169.0,2157.58,4.8
+2294,Haircare Product 294,Beauty,UrbanX,369.0,255.35,4.4
+2295,Fragrance Product 295,Beauty,Apex,283.0,195.21,3.8
+2296,Jacket Product 296,Fashion,Zenix,1361.0,628.16,3.8
+2297,Headphones Product 297,Electronics,UrbanX,768.0,520.81,3.5
+2298,Cricket Product 298,Sports,Zenix,2110.0,1605.8,4.1
+2299,Grooming Product 299,Beauty,Zenix,4846.0,2749.85,3.7
+2300,Makeup Product 300,Beauty,Nova,3811.0,1902.79,4.2
+2301,Fiction Product 301,Books,Nova,2839.0,1855.18,3.8
+2302,Fitness Product 302,Sports,Aura,528.0,266.83,3.5
+2303,Self-Help Product 303,Books,PrimeOne,3076.0,1602.75,3.2
+2304,Grooming Product 304,Beauty,Vertex,797.0,373.83,4.4
+2305,Grooming Product 305,Beauty,UrbanX,430.0,230.85,3.5
+2306,Fragrance Product 306,Beauty,PrimeOne,1956.0,1287.18,4.3
+2307,Self-Help Product 307,Books,UrbanX,813.0,427.17,3.8
+2308,Bedsheet Product 308,Home & Kitchen,Vertex,1041.0,657.04,4.2
+2309,Backpack Product 309,Fashion,PrimeOne,2202.0,1552.56,4.1
+2310,Fiction Product 310,Books,Aura,2419.0,1457.01,4.2
+2311,Fiction Product 311,Books,Aura,911.0,671.33,4.5
+2312,Football Product 312,Sports,PrimeOne,1357.0,704.52,3.8
+2313,Decor Product 313,Home & Kitchen,Zenix,2753.0,2124.69,4.8
+2314,Mixer Product 314,Home & Kitchen,Aura,626.0,325.56,4.4
+2315,Sneakers Product 315,Fashion,Vertex,288.0,191.76,3.9
+2316,Smartphone Product 316,Electronics,Apex,771.0,484.34,4.0
+2317,Headphones Product 317,Electronics,Aura,895.0,486.05,4.2
+2318,Tablet Product 318,Electronics,Vertex,1066.0,552.86,3.9
+2319,Laptop Product 319,Electronics,UrbanX,9195.0,4388.81,3.3
+2320,Bedsheet Product 320,Home & Kitchen,Aura,624.0,443.95,3.7
+2321,Fiction Product 321,Books,Zenix,1034.0,521.38,3.7
+2322,Jeans Product 322,Fashion,Aura,552.0,363.56,4.0
+2323,Skincare Product 323,Beauty,Apex,1483.0,759.65,3.6
+2324,Mixer Product 324,Home & Kitchen,Apex,1920.0,1214.2,4.5
+2325,Smartphone Product 325,Electronics,Nova,2350.0,1135.33,4.2
+2326,T-Shirt Product 326,Fashion,Nova,1506.0,862.47,3.9
+2327,Jeans Product 327,Fashion,PrimeOne,1306.0,869.57,3.7
+2328,T-Shirt Product 328,Fashion,Nova,150.0,107.7,4.1
+2329,Backpack Product 329,Fashion,Zenix,2286.0,1736.45,4.5
+2330,Smartphone Product 330,Electronics,Vertex,4138.0,3053.01,3.3
+2331,Storage Product 331,Home & Kitchen,Vertex,593.0,313.46,3.4
+2332,Cricket Product 332,Sports,PrimeOne,550.0,283.04,3.6
+2333,Running Product 333,Sports,UrbanX,448.0,239.86,3.5
+2334,T-Shirt Product 334,Fashion,UrbanX,2095.0,1615.8,3.4
+2335,Backpack Product 335,Fashion,Aura,434.0,335.99,4.1
+2336,Backpack Product 336,Fashion,PrimeOne,1072.0,831.27,4.1
+2337,Headphones Product 337,Electronics,UrbanX,315.0,213.79,3.9
+2338,Cookware Product 338,Home & Kitchen,UrbanX,1744.0,1029.26,4.2
+2339,Laptop Product 339,Electronics,UrbanX,812.0,587.68,4.1
+2340,Jeans Product 340,Fashion,Apex,1454.0,1070.32,3.8
+2341,Bedsheet Product 341,Home & Kitchen,Apex,556.0,304.52,3.9
+2342,Makeup Product 342,Beauty,UrbanX,632.0,344.6,4.2
+2343,Fiction Product 343,Books,Aura,716.0,554.64,3.6
+2344,Fitness Product 344,Sports,Nova,558.0,362.17,4.2
+2345,Sneakers Product 345,Fashion,Nova,534.0,416.15,2.7
+2346,Football Product 346,Sports,Apex,379.0,250.28,4.1
+2347,Jeans Product 347,Fashion,Vertex,1835.0,1427.08,4.2
+2348,Skincare Product 348,Beauty,Vertex,1573.0,978.22,3.7
+2349,Smartwatch Product 349,Electronics,Apex,821.0,589.99,4.6
+2350,Backpack Product 350,Fashion,UrbanX,2366.0,1456.2,4.6
+2351,Storage Product 351,Home & Kitchen,UrbanX,4537.0,3408.23,4.2
+2352,Fitness Product 352,Sports,Nova,634.0,357.52,4.8
+2353,Business Product 353,Books,Apex,1449.0,904.34,3.7
+2354,Education Product 354,Books,Zenix,1451.0,739.01,4.5
+2355,Football Product 355,Sports,UrbanX,674.0,482.75,4.7
+2356,Tablet Product 356,Electronics,Nova,372.0,206.55,3.6
+2357,Yoga Product 357,Sports,UrbanX,10881.0,4930.48,4.1
+2358,Cookware Product 358,Home & Kitchen,Aura,1634.0,849.73,3.4
+2359,Jacket Product 359,Fashion,Zenix,1234.0,923.71,4.5
+2360,Jacket Product 360,Fashion,Zenix,1610.0,953.94,4.8
+2361,Skincare Product 361,Beauty,Aura,10645.0,5236.75,3.9
+2362,Jacket Product 362,Fashion,Apex,987.0,643.78,4.1
+2363,Yoga Product 363,Sports,Nova,1254.0,953.34,3.9
+2364,Business Product 364,Books,Apex,1266.0,876.93,5.0
+2365,Education Product 365,Books,Apex,3203.0,2117.37,3.7
+2366,Bedsheet Product 366,Home & Kitchen,Nova,1530.0,1001.1,3.7
+2367,Business Product 367,Books,Zenix,297.0,183.42,4.4
+2368,Mixer Product 368,Home & Kitchen,Zenix,245.0,144.3,4.1
+2369,Tablet Product 369,Electronics,Zenix,3045.0,1646.86,5.0
+2370,Smartwatch Product 370,Electronics,Apex,1499.0,943.35,5.0
+2371,Headphones Product 371,Electronics,Vertex,889.0,426.93,4.4
+2372,Headphones Product 372,Electronics,Aura,588.0,269.05,4.5
+2373,Yoga Product 373,Sports,UrbanX,5781.0,3738.32,4.4
+2374,Headphones Product 374,Electronics,PrimeOne,1477.0,828.6,4.6
+2375,Technology Product 375,Books,Apex,1918.0,1368.36,4.3
+2376,Jeans Product 376,Fashion,Aura,2503.0,1763.86,3.6
+2377,Technology Product 377,Books,Aura,1765.0,1296.4,3.7
+2378,Jeans Product 378,Fashion,Vertex,804.0,490.59,4.5
+2379,Laptop Product 379,Electronics,Apex,1001.0,731.86,3.9
+2380,Laptop Product 380,Electronics,Apex,2147.0,1433.8,4.7
+2381,Tablet Product 381,Electronics,Apex,2667.0,2012.22,4.4
+2382,Laptop Product 382,Electronics,Vertex,3108.0,1876.1,3.6
+2383,Cricket Product 383,Sports,UrbanX,586.0,393.96,3.6
+2384,Tablet Product 384,Electronics,Vertex,1414.0,752.57,3.5
+2385,Bedsheet Product 385,Home & Kitchen,Vertex,581.0,415.88,4.5
+2386,Cricket Product 386,Sports,PrimeOne,1077.0,745.34,4.6
+2387,Bedsheet Product 387,Home & Kitchen,PrimeOne,954.0,631.57,3.9
+2388,Makeup Product 388,Beauty,UrbanX,1191.0,593.88,4.1
+2389,Smartphone Product 389,Electronics,Zenix,2754.0,1662.25,4.2
+2390,Football Product 390,Sports,PrimeOne,558.0,431.94,4.5
+2391,Cookware Product 391,Home & Kitchen,Vertex,7014.0,5452.34,3.9
+2392,Headphones Product 392,Electronics,Aura,3693.0,2824.78,4.3
+2393,Running Product 393,Sports,Zenix,281.0,215.03,4.1
+2394,Haircare Product 394,Beauty,PrimeOne,1583.0,1071.53,3.4
+2395,Smartwatch Product 395,Electronics,Aura,420.0,278.61,4.7
+2396,Fitness Product 396,Sports,Nova,1638.0,1210.71,4.2
+2397,Fiction Product 397,Books,PrimeOne,329.0,197.77,4.0
+2398,Fragrance Product 398,Beauty,Aura,3371.0,1871.35,3.8
+2399,Football Product 399,Sports,Apex,3513.0,2593.08,3.8
+2400,Yoga Product 400,Sports,Vertex,777.0,374.29,3.4
+2401,Self-Help Product 401,Books,UrbanX,1387.0,805.47,3.6
+2402,Jacket Product 402,Fashion,Nova,377.0,276.46,3.7
+2403,Mixer Product 403,Home & Kitchen,Apex,718.0,514.0,3.9
+2404,Backpack Product 404,Fashion,Nova,1022.0,592.66,4.7
+2405,Skincare Product 405,Beauty,Aura,287.0,169.08,4.4
+2406,Mixer Product 406,Home & Kitchen,Apex,5121.0,2960.38,3.7
+2407,Backpack Product 407,Fashion,PrimeOne,1331.0,932.29,3.4
+2408,Education Product 408,Books,PrimeOne,3608.0,1977.14,3.7
+2409,Self-Help Product 409,Books,Zenix,999.0,614.22,4.8
+2410,Headphones Product 410,Electronics,Zenix,627.0,338.81,4.4
+2411,Backpack Product 411,Fashion,Aura,1285.0,924.43,4.0
+2412,Laptop Product 412,Electronics,Aura,2766.0,2134.51,4.1
+2413,Mixer Product 413,Home & Kitchen,UrbanX,639.0,306.22,4.6
+2414,Football Product 414,Sports,Apex,1480.0,885.21,4.1
+2415,Bedsheet Product 415,Home & Kitchen,Nova,690.0,455.85,5.0
+2416,Jeans Product 416,Fashion,Nova,172.0,96.26,4.1
+2417,Education Product 417,Books,Zenix,848.0,444.76,3.7
+2418,Fitness Product 418,Sports,Nova,1317.0,624.94,3.2
+2419,Business Product 419,Books,Vertex,1175.0,716.85,4.3
+2420,Skincare Product 420,Beauty,Vertex,907.0,506.55,4.0
+2421,Headphones Product 421,Electronics,Zenix,1275.0,584.45,3.7
+2422,Bedsheet Product 422,Home & Kitchen,Nova,655.0,412.39,4.4
+2423,Decor Product 423,Home & Kitchen,UrbanX,1831.0,1214.05,4.2
+2424,Fiction Product 424,Books,Aura,783.0,599.72,3.9
+2425,Yoga Product 425,Sports,Nova,2444.0,1467.38,4.2
+2426,Backpack Product 426,Fashion,Zenix,335.0,190.78,4.0
+2427,Makeup Product 427,Beauty,Zenix,1262.0,635.17,4.5
+2428,Jacket Product 428,Fashion,Vertex,1814.0,1255.24,4.1
+2429,Backpack Product 429,Fashion,Aura,3585.0,1620.52,3.9
+2430,Technology Product 430,Books,Nova,720.0,544.59,4.7
+2431,Tablet Product 431,Electronics,Aura,3337.0,1767.09,3.6
+2432,Tablet Product 432,Electronics,Nova,1723.0,846.7,3.5
+2433,Backpack Product 433,Fashion,Zenix,5503.0,3496.29,3.8
+2434,Backpack Product 434,Fashion,Vertex,309.0,201.17,3.3
+2435,Self-Help Product 435,Books,UrbanX,1435.0,941.23,3.4
+2436,Storage Product 436,Home & Kitchen,PrimeOne,1122.0,590.28,4.0
+2437,Mixer Product 437,Home & Kitchen,Apex,1341.0,967.29,4.1
+2438,Makeup Product 438,Beauty,Apex,2537.0,1198.02,4.0
+2439,Headphones Product 439,Electronics,UrbanX,4058.0,3146.19,4.3
+2440,Decor Product 440,Home & Kitchen,Vertex,1556.0,945.19,3.9
+2441,Grooming Product 441,Beauty,Vertex,273.0,144.42,3.2
+2442,Football Product 442,Sports,PrimeOne,823.0,533.89,4.4
+2443,Headphones Product 443,Electronics,Zenix,19805.0,11508.79,4.1
+2444,T-Shirt Product 444,Fashion,Zenix,490.0,235.58,4.4
+2445,Smartphone Product 445,Electronics,PrimeOne,1360.0,716.73,4.4
+2446,Running Product 446,Sports,Nova,2227.0,1519.7,4.6
+2447,Jacket Product 447,Fashion,PrimeOne,2837.0,2026.74,3.7
+2448,Self-Help Product 448,Books,Vertex,671.0,406.52,3.6
+2449,Grooming Product 449,Beauty,Vertex,4238.0,2661.69,4.1
+2450,Yoga Product 450,Sports,UrbanX,3470.0,2070.96,4.0
+2451,Cricket Product 451,Sports,Apex,1715.0,866.78,4.7
+2452,Smartphone Product 452,Electronics,Aura,507.0,300.75,4.3
+2453,Smartwatch Product 453,Electronics,Aura,697.0,413.27,4.2
+2454,Decor Product 454,Home & Kitchen,Apex,635.0,441.17,3.6
+2455,Laptop Product 455,Electronics,Apex,926.0,435.95,3.8
+2456,Decor Product 456,Home & Kitchen,Nova,3973.0,2117.04,3.4
+2457,Tablet Product 457,Electronics,Aura,1497.0,955.31,3.7
+2458,Self-Help Product 458,Books,Apex,2011.0,1049.84,4.2
+2459,T-Shirt Product 459,Fashion,Nova,1324.0,789.51,4.3
+2460,Decor Product 460,Home & Kitchen,Nova,4531.0,2776.65,4.4
+2461,Mixer Product 461,Home & Kitchen,Vertex,281.0,141.16,4.4
+2462,Business Product 462,Books,Apex,150.0,83.0,4.4
+2463,Cricket Product 463,Sports,Zenix,1098.0,708.06,3.8
+2464,Football Product 464,Sports,Zenix,1123.0,790.6,3.8
+2465,Jacket Product 465,Fashion,Nova,1093.0,662.62,4.7
+2466,Jacket Product 466,Fashion,Zenix,611.0,277.61,3.9
+2467,Jeans Product 467,Fashion,Vertex,351.0,235.72,3.9
+2468,Jeans Product 468,Fashion,Nova,1031.0,587.44,4.0
+2469,Fiction Product 469,Books,Nova,815.0,489.42,3.4
+2470,Bedsheet Product 470,Home & Kitchen,Nova,1403.0,1052.88,4.0
+2471,Grooming Product 471,Beauty,Apex,2116.0,1246.44,3.4
+2472,Tablet Product 472,Electronics,Apex,3265.0,2453.79,4.4
+2473,Education Product 473,Books,Nova,2388.0,1288.67,3.9
+2474,Business Product 474,Books,Vertex,1115.0,756.6,3.8
+2475,Storage Product 475,Home & Kitchen,UrbanX,1717.0,1018.42,3.2
+2476,Self-Help Product 476,Books,PrimeOne,397.0,301.75,4.2
+2477,Football Product 477,Sports,Apex,537.0,372.79,5.0
+2478,Laptop Product 478,Electronics,Vertex,5315.0,2838.23,3.8
+2479,Self-Help Product 479,Books,Aura,2923.0,1755.88,4.1
+2480,Sneakers Product 480,Fashion,Zenix,307.0,231.22,4.8
+2481,Tablet Product 481,Electronics,Aura,611.0,409.06,5.0
+2482,Fiction Product 482,Books,PrimeOne,6067.0,4459.36,3.6
+2483,Smartphone Product 483,Electronics,Apex,574.0,318.55,4.6
+2484,Grooming Product 484,Beauty,Nova,218.0,152.88,2.9
+2485,Fiction Product 485,Books,Zenix,725.0,358.91,2.7
+2486,Technology Product 486,Books,UrbanX,742.0,542.75,3.3
+2487,Running Product 487,Sports,Zenix,3238.0,2040.94,3.9
+2488,Education Product 488,Books,Zenix,2524.0,1181.34,3.2
+2489,Storage Product 489,Home & Kitchen,UrbanX,764.0,411.74,4.7
+2490,Education Product 490,Books,Aura,1118.0,686.59,4.1
+2491,Smartwatch Product 491,Electronics,Apex,1547.0,959.52,4.4
+2492,T-Shirt Product 492,Fashion,Aura,2289.0,1590.41,3.9
+2493,Laptop Product 493,Electronics,Zenix,855.0,540.73,3.8
+2494,Makeup Product 494,Beauty,PrimeOne,1557.0,1104.66,4.1
+2495,Headphones Product 495,Electronics,UrbanX,4339.0,3116.42,5.0
+2496,Laptop Product 496,Electronics,UrbanX,1051.0,683.55,4.2
+2497,Jacket Product 497,Fashion,Nova,1360.0,708.86,4.2
+2498,T-Shirt Product 498,Fashion,Zenix,2076.0,1383.13,3.6
+2499,Laptop Product 499,Electronics,UrbanX,718.0,426.87,3.6
+2500,Smartphone Product 500,Electronics,PrimeOne,541.0,257.14,3.8
